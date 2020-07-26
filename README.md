@@ -1,8 +1,8 @@
-# Professional_GitHub
+# Toy App Me
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# README.md TEMPLATE
+# Toy App Me Project
 
 > This is a repo for the templates that it will be useful in our daily basis as developer to keep the things in a professional way.
 
