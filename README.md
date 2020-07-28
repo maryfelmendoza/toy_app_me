@@ -4,16 +4,18 @@
 
 # Toy App Me Project
 
-> This is a repo for the templates that it will be useful in our daily basis as developer to keep the things in a professional way.
+I developed a toy demo application to show off some of the power of Rails. The purpose is to get a high-level overview of Ruby on Rails programming (and web development in general) by rapidly generating an application using scaffold generators, which create a large amount of functionality automatically.
+
+The resulting toy app will allow us to interact with it through its URLs, giving us insight into the structure of a Rails application, including a first example of the REST architecture favored by Rails.
 
 
-Additional description about the project and its features.
+[Additional Project Info Here](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/toy_app)
 
 ## Built With
 
 - Languages: HTML, CSS, Ruby and JavaScript.
-- Framework: Bootstrap
-- Tecnologies: RoR
+- Framework: RoR
+
 
 ## Live Demo
 
@@ -22,23 +24,28 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+I started by generating the application skeleton using the rails new command with a specific Rails version number.
+Next, I used a text editor to update the Gemfile needed by Bundler with the contents of Listing 2.1 in the chapter 2.
 
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Follow prerequisites in [Chapter 1](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning)
+
+
 ### Setup
+
+Follow the setup steps in [Chapter 1](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning)
+
 
 ### Install
 
-### Usage
+Follow the installation steps in [Chapter 1](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning)
 
-### Run tests
 
 ### Deployment
+
+Follow the deployment steps in [Chapter 2](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/toy_app)
 
 
 
@@ -63,9 +70,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- High-level overview of Rails
+- Introduction to MVC
+- First taste of the REST architecture
+- Beginning data modeling
+- A live, database-backed web application in production
 
 ## 📝 License
 
